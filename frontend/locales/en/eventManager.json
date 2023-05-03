@@ -1,0 +1,25 @@
+{
+    "invites": {
+        "heading": "Event Manager - Invites"
+    },
+    "events": {
+        "heading": "Event Manager - Events",
+        "created": "Created",
+        "participating": "Participating",
+        "more": "more",
+        "no_participants": "No participants",
+        "manage_participants": "Manage Participants",
+        "see_event": "See The Event",
+        "participants": "Participants",
+        "invite_to_event": "Invite To Event",
+        "invite": "Invite",
+        "join_requests": "Join Requests"
+    },
+    "history": {
+        "heading": "Event Manager - History"
+    },
+    "creator": {
+        "heading": "Event Creator"
+    },
+    "heading_desc": "Here you can find invitations to events, you can also manage them and even reminisce."
+}

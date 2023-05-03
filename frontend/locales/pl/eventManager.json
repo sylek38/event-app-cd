@@ -1,0 +1,25 @@
+{
+    "invites": {
+        "heading": "Menadżer wydarzeń - Zaproszenia"
+    },
+    "events": {
+        "heading": "Menadżer wydarzeń - Wydarzenia",
+        "created": "Stworzone",
+        "participating": "Biorę udział",
+        "more": "więcej",
+        "no_participants": "Brak uczestników",
+        "manage_participants": "Zarządzaj uczestnikami",
+        "see_event": "Zobacz wydarzenie",
+        "participants": "Uczestnicy",
+        "invite_to_event": "Zaproś do wydarzenia",
+        "invite": "Zaproś",
+        "join_requests": "Prośby o dołączenie"
+    },
+    "history": {
+        "heading": "Menadżer wydarzeń - Historia"
+    },
+    "creator": {
+        "heading": "Kreator wydarzeń"
+    },
+    "heading_desc": "Tutaj znajdziesz zaproszenia do wydarzeń, możesz także nimi zarządzać, a nawet i powspominać."
+}
